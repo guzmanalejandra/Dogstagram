@@ -1,0 +1,6 @@
+/* CSS HEX */
+--rich-black: #0E1518ff;
+--slate-gray: #7B8E99ff;
+--rich-black-2: #11151Bff;
+--gunmetal: #2C343Bff;
+--columbia-blue: #AFC2CCff;

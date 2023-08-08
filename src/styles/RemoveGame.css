@@ -1,0 +1,31 @@
+.__component-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.__form-container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+.__game-select {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.__delete-button {
+  background-color: royalblue;
+  border-radius: 10px;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.__delete-button:disabled {
+  background-color: gray;
+}

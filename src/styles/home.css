@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
+
+.home-container {
+  display: grid;
+  grid-template-rows: 100px 90%;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+.home-title {
+  height: 100px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  background-color: #11151Bff;
+  gap: 5px;
+}
+
+.title {
+  display: grid;
+  align-items: center;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 2em;
+}
+
+.logo {
+  height: 95px;
+  width: 100px;
+  justify-self: right;
+}
+
+
+.content-container{
+    background-color: rgb(59, 63, 65);
+}
